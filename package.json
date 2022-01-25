@@ -1,0 +1,20 @@
+{
+  "name": "telegram-bot",
+  "description": "Example of a Telegram Bot using the Serverless Framework ⚡🤖 ",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "python",
+    "aws",
+    "lambda",
+    "serverless"
+  ],
+  "author": "olsi",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-python-requirements": "^4.2.5"
+  }
+}
