@@ -17,8 +17,7 @@ $ python3.7 -m venv venv && souce venv/bin/activate
 # Get a bot from Telegram
 $ /newbot
 
-# Put the token received into a file called serverless.env.yml, like this
-$ cat serverless.env.yml
+# Put the token received into a file called serverless.yml in the env section
 TELEGRAM_TOKEN: <your_token>
 
 # Deploy it!
