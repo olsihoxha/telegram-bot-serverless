@@ -14,7 +14,7 @@ $ npm install
 # Create and active a Python 3.7 venv
 $ python3.7 -m venv venv && souce venv/bin/activate
 
-# Get a bot from Telegram
+# Get a bot from Telegram --- https://core.telegram.org/bots#6-botfather
 $ /newbot
 
 # Put the token received into a file called serverless.yml in the env section
