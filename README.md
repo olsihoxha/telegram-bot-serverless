@@ -14,7 +14,7 @@ $ npm install
 # Create and active a Python 3.7 venv
 $ python3.7 -m venv venv && souce venv/bin/activate
 
-# Get a bot from Telegram --- https://core.telegram.org/bots#6-botfather
+# Get a bot from Telegram 
 $ /newbot
 
 # Put the token received into a file called serverless.yml in the env section
@@ -26,3 +26,5 @@ $ serverless deploy
 # With the URL returned in the output, configure the Webhook
 $ curl -X POST https://<your_url>.amazonaws.com/dev/set_webhook
 ```
+
+[Telegram Docs](https://core.telegram.org/bots#6-botfather) on how to get a bot
